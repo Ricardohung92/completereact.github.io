@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACTCRUD.github.io/static/css/main.9a508654.chunk.css",
+    "main.js": "/REACTCRUD.github.io/static/js/main.41e0bc7d.chunk.js",
+    "main.js.map": "/REACTCRUD.github.io/static/js/main.41e0bc7d.chunk.js.map",
+    "runtime-main.js": "/REACTCRUD.github.io/static/js/runtime-main.788d2329.js",
+    "runtime-main.js.map": "/REACTCRUD.github.io/static/js/runtime-main.788d2329.js.map",
+    "static/js/2.8a1082c9.chunk.js": "/REACTCRUD.github.io/static/js/2.8a1082c9.chunk.js",
+    "static/js/2.8a1082c9.chunk.js.map": "/REACTCRUD.github.io/static/js/2.8a1082c9.chunk.js.map",
+    "index.html": "/REACTCRUD.github.io/index.html",
+    "precache-manifest.db0ed431d1766e2ce4d7441918c2ab06.js": "/REACTCRUD.github.io/precache-manifest.db0ed431d1766e2ce4d7441918c2ab06.js",
+    "service-worker.js": "/REACTCRUD.github.io/service-worker.js",
+    "static/css/main.9a508654.chunk.css.map": "/REACTCRUD.github.io/static/css/main.9a508654.chunk.css.map",
+    "static/js/2.8a1082c9.chunk.js.LICENSE.txt": "/REACTCRUD.github.io/static/js/2.8a1082c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.788d2329.js",
+    "static/js/2.8a1082c9.chunk.js",
+    "static/css/main.9a508654.chunk.css",
+    "static/js/main.41e0bc7d.chunk.js"
+  ]
+}
